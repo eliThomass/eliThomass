@@ -9,7 +9,7 @@
 
 😎 Click [here](https://github.com/eliThomass/eliThomass/blob/main/Resume%20-%20Eli%20Thomas.pdf) to see my resume  
 🌐 Connect with me through social media!  
-[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&labelColor=7289DA?style=social)]([https://discord.com/](https://discord.com/users/333447135926419456))
+[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&labelColor=7289DA?style=social)](https://discord.com/users/333447135926419456)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eli-thomas/)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:ecthomas05@gmail.com)
 
