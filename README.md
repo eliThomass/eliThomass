@@ -25,7 +25,7 @@
 | Technologies | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  ![REST APIs](https://img.shields.io/badge/REST%20APIs-00A388?style=for-the-badge&logoColor=white)  ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)  ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) |  
 | Tools | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) | 
 
-### 💻 LeetCode Stats
+### 🧠 LeetCode Stats
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![Total Solved](https://img.shields.io/badge/Total%20Solved-173+-orange?style=for-the-badge)
@@ -35,3 +35,4 @@
 [![My LeetCode Account](https://img.shields.io/badge/My_Account-000000?style=for-the-badge&logo=LeetCode&logoColor=%d16c06)](https://leetcode.com/eliThomass/)
 
 
+### ⬇️ Check out my projects & contributions!
