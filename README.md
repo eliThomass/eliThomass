@@ -5,7 +5,8 @@
 💻 3rd Year Student at Cal State Fullerton  
 📚 Studying Computer Science and Software Development  
 🤖 Exploring Fullstack and Backend Web Development along with AI  
-📖 Algorithm Board Officer for the [Association for Computing Machinery at CSUF](https://acmcsuf.com/)
+📖 Algorithm Board Officer for the [Association for Computing Machinery at CSUF](https://acmcsuf.com/)  
+✨ Check out my [website](http://elithomas.dev/)!
 
 😎 Click [here](https://github.com/eliThomass/eliThomass/blob/main/Elias_Thomas_Resume.pdf) to see my resume  
 🌐 Connect with me through social media!  
