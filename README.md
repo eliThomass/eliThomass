@@ -2,7 +2,8 @@
 
 ## 😁 About Me
 
-💻 3rd Year Student at Cal State Fullerton  
+💼 Agentic AI Intern at Ingram Micro  
+💻 Senior Student at Cal State Fullerton  
 📚 Studying Computer Science and Software Development  
 🤖 Exploring Fullstack and Backend Web Development along with AI  
 📖 Algorithm Board Officer for the [Association for Computing Machinery at CSUF](https://acmcsuf.com/)  
