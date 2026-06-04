@@ -30,10 +30,10 @@
 ### 🧠 LeetCode Stats
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-![Total Solved](https://img.shields.io/badge/Total%20Solved-173+-orange?style=for-the-badge)
-![Easy](https://img.shields.io/badge/Easy-72-green?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-89-yellow?style=for-the-badge)
-![Hard](https://img.shields.io/badge/Hard-12-red?style=for-the-badge)  
+![Total Solved](https://img.shields.io/badge/Total%20Solved-246+-orange?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-124-green?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-108-yellow?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard-14-red?style=for-the-badge)  
 [![My LeetCode Account](https://img.shields.io/badge/My_Account-000000?style=for-the-badge&logo=LeetCode&logoColor=%d16c06)](https://leetcode.com/eliThomass/)
 
 
