@@ -2,7 +2,7 @@
 
 ## 😁 About Me
 
-💼 Agentic AI Intern at Ingram Micro  
+💼 Former Agentic AI Intern at Ingram Micro  
 💻 Senior Student at Cal State Fullerton  
 📚 Studying Computer Science and Software Development  
 🤖 Exploring Fullstack and Backend Web Development along with AI  
